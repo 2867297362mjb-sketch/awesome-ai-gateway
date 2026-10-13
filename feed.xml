@@ -5,14 +5,133 @@
   <link href="https://cuihuan.github.io/awesome-ai-gateway/" />
   <link rel="self" type="application/atom+xml" href="https://cuihuan.github.io/awesome-ai-gateway/feed.xml" />
   <id>https://cuihuan.github.io/awesome-ai-gateway/feed.xml</id>
-  <updated>2026-10-12T07:58:58Z</updated>
+  <updated>2026-10-13T09:33:43Z</updated>
   <author><name>Awesome AI Gateway</name></author>
   <entry>
-    <title>mozilla-ai/otari v0.20.0</title>
-    <link href="https://github.com/mozilla-ai/otari/releases/tag/v0.20.0" />
-    <id>https://github.com/mozilla-ai/otari/releases/tag/v0.20.0</id>
-    <updated>2026-10-12T07:58:58Z</updated>
-    <summary>mozilla-ai/otari released v0.20.0.</summary>
+    <title>mlflow/mlflow v3.17.1</title>
+    <link href="https://github.com/mlflow/mlflow/releases/tag/v3.17.1" />
+    <id>https://github.com/mlflow/mlflow/releases/tag/v3.17.1</id>
+    <updated>2026-10-13T09:33:43Z</updated>
+    <summary>mlflow/mlflow released MLflow 3.17.1.</summary>
+  </entry>
+  <entry>
+    <title>mozilla-ai/otari v0.22.0</title>
+    <link href="https://github.com/mozilla-ai/otari/releases/tag/v0.22.0" />
+    <id>https://github.com/mozilla-ai/otari/releases/tag/v0.22.0</id>
+    <updated>2026-10-13T08:37:48Z</updated>
+    <summary>mozilla-ai/otari released v0.22.0.</summary>
+  </entry>
+  <entry>
+    <title>romgX/openrelay v0.10.69</title>
+    <link href="https://github.com/romgX/openrelay/releases/tag/v0.10.69" />
+    <id>https://github.com/romgX/openrelay/releases/tag/v0.10.69</id>
+    <updated>2026-10-13T07:48:31Z</updated>
+    <summary>romgX/openrelay released v0.10.69.</summary>
+  </entry>
+  <entry>
+    <title>bestruirui/octopus v0.13.11</title>
+    <link href="https://github.com/bestruirui/octopus/releases/tag/v0.13.11" />
+    <id>https://github.com/bestruirui/octopus/releases/tag/v0.13.11</id>
+    <updated>2026-10-13T07:25:47Z</updated>
+    <summary>bestruirui/octopus released v0.13.11.</summary>
+  </entry>
+  <entry>
+    <title>Wei-Shaw/sub2api v0.2.16</title>
+    <link href="https://github.com/Wei-Shaw/sub2api/releases/tag/v0.2.16" />
+    <id>https://github.com/Wei-Shaw/sub2api/releases/tag/v0.2.16</id>
+    <updated>2026-10-13T07:20:24Z</updated>
+    <summary>Wei-Shaw/sub2api released Sub2API 0.2.16.</summary>
+  </entry>
+  <entry>
+    <title>ENTERPILOT/GoModel v0.1.102</title>
+    <link href="https://github.com/ENTERPILOT/GoModel/releases/tag/v0.1.102" />
+    <id>https://github.com/ENTERPILOT/GoModel/releases/tag/v0.1.102</id>
+    <updated>2026-10-13T05:47:19Z</updated>
+    <summary>ENTERPILOT/GoModel released v0.1.102.</summary>
+  </entry>
+  <entry>
+    <title>maximhq/bifrost ent-v2.3.0-base</title>
+    <link href="https://github.com/maximhq/bifrost/releases/tag/ent-v2.3.0-base" />
+    <id>https://github.com/maximhq/bifrost/releases/tag/ent-v2.3.0-base</id>
+    <updated>2026-10-13T03:34:34Z</updated>
+    <summary>maximhq/bifrost released Enterprise v2.3.0 base.</summary>
+  </entry>
+  <entry>
+    <title>seakee/CPA-Manager-Plus v1.14.6</title>
+    <link href="https://github.com/seakee/CPA-Manager-Plus/releases/tag/v1.14.6" />
+    <id>https://github.com/seakee/CPA-Manager-Plus/releases/tag/v1.14.6</id>
+    <updated>2026-10-13T03:23:43Z</updated>
+    <summary>seakee/CPA-Manager-Plus released v1.14.6.</summary>
+  </entry>
+  <entry>
+    <title>lidge-jun/opencodex v2.84.0</title>
+    <link href="https://github.com/lidge-jun/opencodex/releases/tag/v2.84.0" />
+    <id>https://github.com/lidge-jun/opencodex/releases/tag/v2.84.0</id>
+    <updated>2026-10-13T01:58:23Z</updated>
+    <summary>lidge-jun/opencodex released v2.84.0.</summary>
+  </entry>
+  <entry>
+    <title>vllm-project/aibrix v0.8.0</title>
+    <link href="https://github.com/vllm-project/aibrix/releases/tag/v0.8.0" />
+    <id>https://github.com/vllm-project/aibrix/releases/tag/v0.8.0</id>
+    <updated>2026-10-13T00:06:30Z</updated>
+    <summary>vllm-project/aibrix released v0.8.0.</summary>
+  </entry>
+  <entry>
+    <title>stacklok/toolhive v0.52.0</title>
+    <link href="https://github.com/stacklok/toolhive/releases/tag/v0.52.0" />
+    <id>https://github.com/stacklok/toolhive/releases/tag/v0.52.0</id>
+    <updated>2026-10-12T17:37:12Z</updated>
+    <summary>stacklok/toolhive released v0.52.0.</summary>
+  </entry>
+  <entry>
+    <title>router-for-me/CLIProxyAPI v8.0.27</title>
+    <link href="https://github.com/router-for-me/CLIProxyAPI/releases/tag/v8.0.27" />
+    <id>https://github.com/router-for-me/CLIProxyAPI/releases/tag/v8.0.27</id>
+    <updated>2026-10-12T16:37:20Z</updated>
+    <summary>router-for-me/CLIProxyAPI released v8.0.27.</summary>
+  </entry>
+  <entry>
+    <title>1mcp-app/agent v0.39.1</title>
+    <link href="https://github.com/1mcp-app/agent/releases/tag/v0.39.1" />
+    <id>https://github.com/1mcp-app/agent/releases/tag/v0.39.1</id>
+    <updated>2026-10-12T16:28:20Z</updated>
+    <summary>1mcp-app/agent released Release v0.39.1.</summary>
+  </entry>
+  <entry>
+    <title>QuantumNous/new-api v1.0.0-rc.44</title>
+    <link href="https://github.com/QuantumNous/new-api/releases/tag/v1.0.0-rc.44" />
+    <id>https://github.com/QuantumNous/new-api/releases/tag/v1.0.0-rc.44</id>
+    <updated>2026-10-12T13:42:01Z</updated>
+    <summary>QuantumNous/new-api released v1.0.0-rc.44.</summary>
+  </entry>
+  <entry>
+    <title>caozhiyuan/copilot-api v2.7.13</title>
+    <link href="https://github.com/caozhiyuan/copilot-api/releases/tag/v2.7.13" />
+    <id>https://github.com/caozhiyuan/copilot-api/releases/tag/v2.7.13</id>
+    <updated>2026-10-12T13:16:58Z</updated>
+    <summary>caozhiyuan/copilot-api released v2.7.13.</summary>
+  </entry>
+  <entry>
+    <title>tbphp/gpt-load v2.0.0-rc.49</title>
+    <link href="https://github.com/tbphp/gpt-load/releases/tag/v2.0.0-rc.49" />
+    <id>https://github.com/tbphp/gpt-load/releases/tag/v2.0.0-rc.49</id>
+    <updated>2026-10-12T10:14:29Z</updated>
+    <summary>tbphp/gpt-load released v2.0.0-rc.49.</summary>
+  </entry>
+  <entry>
+    <title>tashfeenahmed/freellmapi v0.13.10</title>
+    <link href="https://github.com/tashfeenahmed/freellmapi/releases/tag/v0.13.10" />
+    <id>https://github.com/tashfeenahmed/freellmapi/releases/tag/v0.13.10</id>
+    <updated>2026-10-12T10:07:14Z</updated>
+    <summary>tashfeenahmed/freellmapi released v0.13.10.</summary>
+  </entry>
+  <entry>
+    <title>theopenco/llmgateway v1.21.0</title>
+    <link href="https://github.com/theopenco/llmgateway/releases/tag/v1.21.0" />
+    <id>https://github.com/theopenco/llmgateway/releases/tag/v1.21.0</id>
+    <updated>2026-10-12T09:33:54Z</updated>
+    <summary>theopenco/llmgateway released v1.21.0.</summary>
   </entry>
   <entry>
     <title>Kong/kong 3.9.4</title>
@@ -36,25 +155,11 @@
     <summary>labring/aiproxy released Version 0.7.5.</summary>
   </entry>
   <entry>
-    <title>router-for-me/CLIProxyAPI v8.0.24</title>
-    <link href="https://github.com/router-for-me/CLIProxyAPI/releases/tag/v8.0.24" />
-    <id>https://github.com/router-for-me/CLIProxyAPI/releases/tag/v8.0.24</id>
-    <updated>2026-10-11T22:39:33Z</updated>
-    <summary>router-for-me/CLIProxyAPI released v8.0.24.</summary>
-  </entry>
-  <entry>
     <title>kittors/CliRelay v0.5.9</title>
     <link href="https://github.com/kittors/CliRelay/releases/tag/v0.5.9" />
     <id>https://github.com/kittors/CliRelay/releases/tag/v0.5.9</id>
     <updated>2026-10-11T22:19:32Z</updated>
     <summary>kittors/CliRelay released v0.5.9 - Gemini Images on /v1/images, config.yaml Saves That Stop Losing Settings, and Codex Models That Survive Restarts.</summary>
-  </entry>
-  <entry>
-    <title>tashfeenahmed/freellmapi v0.13.9</title>
-    <link href="https://github.com/tashfeenahmed/freellmapi/releases/tag/v0.13.9" />
-    <id>https://github.com/tashfeenahmed/freellmapi/releases/tag/v0.13.9</id>
-    <updated>2026-10-11T22:08:14Z</updated>
-    <summary>tashfeenahmed/freellmapi released v0.13.9.</summary>
   </entry>
   <entry>
     <title>swobuforge/swobu swobu-v2.4.4</title>
@@ -64,13 +169,6 @@
     <summary>swobuforge/swobu released Swobu v2.4.4.</summary>
   </entry>
   <entry>
-    <title>tbphp/gpt-load v2.0.0-rc.48</title>
-    <link href="https://github.com/tbphp/gpt-load/releases/tag/v2.0.0-rc.48" />
-    <id>https://github.com/tbphp/gpt-load/releases/tag/v2.0.0-rc.48</id>
-    <updated>2026-10-11T16:01:58Z</updated>
-    <summary>tbphp/gpt-load released v2.0.0-rc.48.</summary>
-  </entry>
-  <entry>
     <title>BerriAI/litellm v1.105.0</title>
     <link href="https://github.com/BerriAI/litellm/releases/tag/v1.105.0" />
     <id>https://github.com/BerriAI/litellm/releases/tag/v1.105.0</id>
@@ -78,46 +176,11 @@
     <summary>BerriAI/litellm released v1.105.0.</summary>
   </entry>
   <entry>
-    <title>caozhiyuan/copilot-api v2.7.12</title>
-    <link href="https://github.com/caozhiyuan/copilot-api/releases/tag/v2.7.12" />
-    <id>https://github.com/caozhiyuan/copilot-api/releases/tag/v2.7.12</id>
-    <updated>2026-10-11T01:40:32Z</updated>
-    <summary>caozhiyuan/copilot-api released v2.7.12.</summary>
-  </entry>
-  <entry>
-    <title>lidge-jun/opencodex v2.83.0</title>
-    <link href="https://github.com/lidge-jun/opencodex/releases/tag/v2.83.0" />
-    <id>https://github.com/lidge-jun/opencodex/releases/tag/v2.83.0</id>
-    <updated>2026-10-10T19:50:05Z</updated>
-    <summary>lidge-jun/opencodex released v2.83.0.</summary>
-  </entry>
-  <entry>
-    <title>QuantumNous/new-api v1.0.0-rc.43</title>
-    <link href="https://github.com/QuantumNous/new-api/releases/tag/v1.0.0-rc.43" />
-    <id>https://github.com/QuantumNous/new-api/releases/tag/v1.0.0-rc.43</id>
-    <updated>2026-10-10T06:11:03Z</updated>
-    <summary>QuantumNous/new-api released v1.0.0-rc.43.</summary>
-  </entry>
-  <entry>
-    <title>ENTERPILOT/GoModel v0.1.101</title>
-    <link href="https://github.com/ENTERPILOT/GoModel/releases/tag/v0.1.101" />
-    <id>https://github.com/ENTERPILOT/GoModel/releases/tag/v0.1.101</id>
-    <updated>2026-10-09T23:30:37Z</updated>
-    <summary>ENTERPILOT/GoModel released v0.1.101.</summary>
-  </entry>
-  <entry>
     <title>askalf/dario v6.13.11</title>
     <link href="https://github.com/askalf/dario/releases/tag/v6.13.11" />
     <id>https://github.com/askalf/dario/releases/tag/v6.13.11</id>
     <updated>2026-10-09T22:32:13Z</updated>
     <summary>askalf/dario released v6.13.11.</summary>
-  </entry>
-  <entry>
-    <title>1mcp-app/agent v0.39.0</title>
-    <link href="https://github.com/1mcp-app/agent/releases/tag/v0.39.0" />
-    <id>https://github.com/1mcp-app/agent/releases/tag/v0.39.0</id>
-    <updated>2026-10-09T16:56:58Z</updated>
-    <summary>1mcp-app/agent released Release v0.39.0.</summary>
   </entry>
   <entry>
     <title>mnfst/manifest manifest@6.28.6</title>
@@ -132,20 +195,6 @@
     <id>https://github.com/musistudio/claude-code-router/releases/tag/v3.1.3</id>
     <updated>2026-10-09T11:45:36Z</updated>
     <summary>musistudio/claude-code-router released v3.1.3.</summary>
-  </entry>
-  <entry>
-    <title>seakee/CPA-Manager-Plus v1.14.5</title>
-    <link href="https://github.com/seakee/CPA-Manager-Plus/releases/tag/v1.14.5" />
-    <id>https://github.com/seakee/CPA-Manager-Plus/releases/tag/v1.14.5</id>
-    <updated>2026-10-09T08:29:31Z</updated>
-    <summary>seakee/CPA-Manager-Plus released v1.14.5.</summary>
-  </entry>
-  <entry>
-    <title>Wei-Shaw/sub2api v0.2.15</title>
-    <link href="https://github.com/Wei-Shaw/sub2api/releases/tag/v0.2.15" />
-    <id>https://github.com/Wei-Shaw/sub2api/releases/tag/v0.2.15</id>
-    <updated>2026-10-09T03:35:49Z</updated>
-    <summary>Wei-Shaw/sub2api released Sub2API 0.2.15.</summary>
   </entry>
   <entry>
     <title>archestra-ai/archestra platform-v1.3.71</title>
@@ -167,54 +216,5 @@
     <id>https://github.com/looplj/axonhub/releases/tag/v1.0.0-beta11</id>
     <updated>2026-10-08T05:43:47Z</updated>
     <summary>looplj/axonhub released v1.0.0-beta11.</summary>
-  </entry>
-  <entry>
-    <title>ascending-llc/jarvis-registry asc0.5.14</title>
-    <link href="https://github.com/ascending-llc/jarvis-registry/releases/tag/asc0.5.14" />
-    <id>https://github.com/ascending-llc/jarvis-registry/releases/tag/asc0.5.14</id>
-    <updated>2026-10-08T03:01:51Z</updated>
-    <summary>ascending-llc/jarvis-registry released Jarvis Registry asc0.5.14.</summary>
-  </entry>
-  <entry>
-    <title>obot-platform/obot v0.26.3</title>
-    <link href="https://github.com/obot-platform/obot/releases/tag/v0.26.3" />
-    <id>https://github.com/obot-platform/obot/releases/tag/v0.26.3</id>
-    <updated>2026-10-08T01:56:34Z</updated>
-    <summary>obot-platform/obot released v0.26.3.</summary>
-  </entry>
-  <entry>
-    <title>envoyproxy/ai-gateway v1.2.0</title>
-    <link href="https://github.com/theagentrouter/agent-router/releases/tag/v1.2.0" />
-    <id>https://github.com/theagentrouter/agent-router/releases/tag/v1.2.0</id>
-    <updated>2026-10-07T11:58:00Z</updated>
-    <summary>envoyproxy/ai-gateway released v1.2.0.</summary>
-  </entry>
-  <entry>
-    <title>bestruirui/octopus v0.13.10</title>
-    <link href="https://github.com/bestruirui/octopus/releases/tag/v0.13.10" />
-    <id>https://github.com/bestruirui/octopus/releases/tag/v0.13.10</id>
-    <updated>2026-10-07T08:50:33Z</updated>
-    <summary>bestruirui/octopus released v0.13.10.</summary>
-  </entry>
-  <entry>
-    <title>mlflow/mlflow v3.17.0</title>
-    <link href="https://github.com/mlflow/mlflow/releases/tag/v3.17.0" />
-    <id>https://github.com/mlflow/mlflow/releases/tag/v3.17.0</id>
-    <updated>2026-10-07T08:24:24Z</updated>
-    <summary>mlflow/mlflow released MLflow 3.17.0.</summary>
-  </entry>
-  <entry>
-    <title>tsouth89/toolport v1.24.0</title>
-    <link href="https://github.com/btsouth/toolport/releases/tag/v1.24.0" />
-    <id>https://github.com/btsouth/toolport/releases/tag/v1.24.0</id>
-    <updated>2026-10-07T02:02:37Z</updated>
-    <summary>tsouth89/toolport released Toolport v1.24.0.</summary>
-  </entry>
-  <entry>
-    <title>ai-dynamo/dynamo v1.5.1</title>
-    <link href="https://github.com/ai-dynamo/dynamo/releases/tag/v1.5.1" />
-    <id>https://github.com/ai-dynamo/dynamo/releases/tag/v1.5.1</id>
-    <updated>2026-10-07T01:54:13Z</updated>
-    <summary>ai-dynamo/dynamo released Dynamo v1.5.1.</summary>
   </entry>
 </feed>
