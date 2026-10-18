@@ -5,28 +5,63 @@
   <link href="https://cuihuan.github.io/awesome-ai-gateway/" />
   <link rel="self" type="application/atom+xml" href="https://cuihuan.github.io/awesome-ai-gateway/feed.xml" />
   <id>https://cuihuan.github.io/awesome-ai-gateway/feed.xml</id>
-  <updated>2026-10-17T03:49:20Z</updated>
+  <updated>2026-10-18T05:53:32Z</updated>
   <author><name>Awesome AI Gateway</name></author>
+  <entry>
+    <title>BerriAI/litellm v1.106.0</title>
+    <link href="https://github.com/BerriAI/litellm/releases/tag/v1.106.0" />
+    <id>https://github.com/BerriAI/litellm/releases/tag/v1.106.0</id>
+    <updated>2026-10-18T05:53:32Z</updated>
+    <summary>BerriAI/litellm released v1.106.0.</summary>
+  </entry>
+  <entry>
+    <title>caozhiyuan/copilot-api v2.7.23</title>
+    <link href="https://github.com/caozhiyuan/copilot-api/releases/tag/v2.7.23" />
+    <id>https://github.com/caozhiyuan/copilot-api/releases/tag/v2.7.23</id>
+    <updated>2026-10-18T02:24:59Z</updated>
+    <summary>caozhiyuan/copilot-api released v2.7.23.</summary>
+  </entry>
+  <entry>
+    <title>archestra-ai/archestra platform-v1.3.76</title>
+    <link href="https://github.com/archestra-ai/archestra/releases/tag/platform-v1.3.76" />
+    <id>https://github.com/archestra-ai/archestra/releases/tag/platform-v1.3.76</id>
+    <updated>2026-10-17T22:08:49Z</updated>
+    <summary>archestra-ai/archestra released platform: v1.3.76.</summary>
+  </entry>
+  <entry>
+    <title>tashfeenahmed/freellmapi v0.16.0</title>
+    <link href="https://github.com/tashfeenahmed/freellmapi/releases/tag/v0.16.0" />
+    <id>https://github.com/tashfeenahmed/freellmapi/releases/tag/v0.16.0</id>
+    <updated>2026-10-17T19:03:22Z</updated>
+    <summary>tashfeenahmed/freellmapi released v0.16.0.</summary>
+  </entry>
+  <entry>
+    <title>QuantumNous/new-api v1.0.0-rc.45</title>
+    <link href="https://github.com/QuantumNous/new-api/releases/tag/v1.0.0-rc.45" />
+    <id>https://github.com/QuantumNous/new-api/releases/tag/v1.0.0-rc.45</id>
+    <updated>2026-10-17T15:42:41Z</updated>
+    <summary>QuantumNous/new-api released v1.0.0-rc.45.</summary>
+  </entry>
+  <entry>
+    <title>liaohch3/claude-tap v0.1.146</title>
+    <link href="https://github.com/liaohch3/claude-tap/releases/tag/v0.1.146" />
+    <id>https://github.com/liaohch3/claude-tap/releases/tag/v0.1.146</id>
+    <updated>2026-10-17T15:22:24Z</updated>
+    <summary>liaohch3/claude-tap released v0.1.146.</summary>
+  </entry>
+  <entry>
+    <title>smart-mcp-proxy/mcpproxy-go v0.71.1</title>
+    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/releases/tag/v0.71.1" />
+    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/releases/tag/v0.71.1</id>
+    <updated>2026-10-17T11:13:19Z</updated>
+    <summary>smart-mcp-proxy/mcpproxy-go released v0.71.1.</summary>
+  </entry>
   <entry>
     <title>lidge-jun/opencodex v2.88.0</title>
     <link href="https://github.com/lidge-jun/opencodex/releases/tag/v2.88.0" />
     <id>https://github.com/lidge-jun/opencodex/releases/tag/v2.88.0</id>
     <updated>2026-10-17T03:49:20Z</updated>
     <summary>lidge-jun/opencodex released v2.88.0.</summary>
-  </entry>
-  <entry>
-    <title>caozhiyuan/copilot-api v2.7.19</title>
-    <link href="https://github.com/caozhiyuan/copilot-api/releases/tag/v2.7.19" />
-    <id>https://github.com/caozhiyuan/copilot-api/releases/tag/v2.7.19</id>
-    <updated>2026-10-17T03:00:45Z</updated>
-    <summary>caozhiyuan/copilot-api released v2.7.19.</summary>
-  </entry>
-  <entry>
-    <title>archestra-ai/archestra platform-v1.3.75</title>
-    <link href="https://github.com/archestra-ai/archestra/releases/tag/platform-v1.3.75" />
-    <id>https://github.com/archestra-ai/archestra/releases/tag/platform-v1.3.75</id>
-    <updated>2026-10-17T02:37:03Z</updated>
-    <summary>archestra-ai/archestra released platform: v1.3.75.</summary>
   </entry>
   <entry>
     <title>askalf/dario v6.13.18</title>
@@ -113,13 +148,6 @@
     <summary>tsouth89/toolport released Toolport v1.24.2.</summary>
   </entry>
   <entry>
-    <title>tashfeenahmed/freellmapi v0.15.0</title>
-    <link href="https://github.com/tashfeenahmed/freellmapi/releases/tag/v0.15.0" />
-    <id>https://github.com/tashfeenahmed/freellmapi/releases/tag/v0.15.0</id>
-    <updated>2026-10-15T22:38:47Z</updated>
-    <summary>tashfeenahmed/freellmapi released v0.15.0.</summary>
-  </entry>
-  <entry>
     <title>lightseekorg/smg v1.13.0</title>
     <link href="https://github.com/smg-project/smg/releases/tag/v1.13.0" />
     <id>https://github.com/smg-project/smg/releases/tag/v1.13.0</id>
@@ -162,13 +190,6 @@
     <summary>stacklok/toolhive released v0.54.0.</summary>
   </entry>
   <entry>
-    <title>BerriAI/litellm v1.105.1</title>
-    <link href="https://github.com/BerriAI/litellm/releases/tag/v1.105.1" />
-    <id>https://github.com/BerriAI/litellm/releases/tag/v1.105.1</id>
-    <updated>2026-10-14T04:33:53Z</updated>
-    <summary>BerriAI/litellm released v1.105.1.</summary>
-  </entry>
-  <entry>
     <title>bestruirui/octopus v0.13.12</title>
     <link href="https://github.com/bestruirui/octopus/releases/tag/v0.13.12" />
     <id>https://github.com/bestruirui/octopus/releases/tag/v0.13.12</id>
@@ -195,26 +216,5 @@
     <id>https://github.com/mlflow/mlflow/releases/tag/v3.17.1</id>
     <updated>2026-10-13T09:33:43Z</updated>
     <summary>mlflow/mlflow released MLflow 3.17.1.</summary>
-  </entry>
-  <entry>
-    <title>romgX/openrelay v0.10.69</title>
-    <link href="https://github.com/romgX/openrelay/releases/tag/v0.10.69" />
-    <id>https://github.com/romgX/openrelay/releases/tag/v0.10.69</id>
-    <updated>2026-10-13T07:48:31Z</updated>
-    <summary>romgX/openrelay released v0.10.69.</summary>
-  </entry>
-  <entry>
-    <title>vllm-project/aibrix v0.8.0</title>
-    <link href="https://github.com/vllm-project/aibrix/releases/tag/v0.8.0" />
-    <id>https://github.com/vllm-project/aibrix/releases/tag/v0.8.0</id>
-    <updated>2026-10-13T00:06:30Z</updated>
-    <summary>vllm-project/aibrix released v0.8.0.</summary>
-  </entry>
-  <entry>
-    <title>QuantumNous/new-api v1.0.0-rc.44</title>
-    <link href="https://github.com/QuantumNous/new-api/releases/tag/v1.0.0-rc.44" />
-    <id>https://github.com/QuantumNous/new-api/releases/tag/v1.0.0-rc.44</id>
-    <updated>2026-10-12T13:42:01Z</updated>
-    <summary>QuantumNous/new-api released v1.0.0-rc.44.</summary>
   </entry>
 </feed>
