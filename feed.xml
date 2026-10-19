@@ -5,8 +5,36 @@
   <link href="https://cuihuan.github.io/awesome-ai-gateway/" />
   <link rel="self" type="application/atom+xml" href="https://cuihuan.github.io/awesome-ai-gateway/feed.xml" />
   <id>https://cuihuan.github.io/awesome-ai-gateway/feed.xml</id>
-  <updated>2026-10-18T05:53:32Z</updated>
+  <updated>2026-10-19T02:35:49Z</updated>
   <author><name>Awesome AI Gateway</name></author>
+  <entry>
+    <title>askalf/dario v6.13.20</title>
+    <link href="https://github.com/askalf/dario/releases/tag/v6.13.20" />
+    <id>https://github.com/askalf/dario/releases/tag/v6.13.20</id>
+    <updated>2026-10-19T02:35:49Z</updated>
+    <summary>askalf/dario released v6.13.20.</summary>
+  </entry>
+  <entry>
+    <title>tashfeenahmed/freellmapi v0.16.3</title>
+    <link href="https://github.com/tashfeenahmed/freellmapi/releases/tag/v0.16.3" />
+    <id>https://github.com/tashfeenahmed/freellmapi/releases/tag/v0.16.3</id>
+    <updated>2026-10-18T21:58:20Z</updated>
+    <summary>tashfeenahmed/freellmapi released v0.16.3.</summary>
+  </entry>
+  <entry>
+    <title>caozhiyuan/copilot-api v2.7.24</title>
+    <link href="https://github.com/caozhiyuan/copilot-api/releases/tag/v2.7.24" />
+    <id>https://github.com/caozhiyuan/copilot-api/releases/tag/v2.7.24</id>
+    <updated>2026-10-18T14:56:15Z</updated>
+    <summary>caozhiyuan/copilot-api released v2.7.24.</summary>
+  </entry>
+  <entry>
+    <title>router-for-me/CLIProxyAPI v8.0.33</title>
+    <link href="https://github.com/router-for-me/CLIProxyAPI/releases/tag/v8.0.33" />
+    <id>https://github.com/router-for-me/CLIProxyAPI/releases/tag/v8.0.33</id>
+    <updated>2026-10-18T13:06:35Z</updated>
+    <summary>router-for-me/CLIProxyAPI released v8.0.33.</summary>
+  </entry>
   <entry>
     <title>BerriAI/litellm v1.106.0</title>
     <link href="https://github.com/BerriAI/litellm/releases/tag/v1.106.0" />
@@ -15,25 +43,11 @@
     <summary>BerriAI/litellm released v1.106.0.</summary>
   </entry>
   <entry>
-    <title>caozhiyuan/copilot-api v2.7.23</title>
-    <link href="https://github.com/caozhiyuan/copilot-api/releases/tag/v2.7.23" />
-    <id>https://github.com/caozhiyuan/copilot-api/releases/tag/v2.7.23</id>
-    <updated>2026-10-18T02:24:59Z</updated>
-    <summary>caozhiyuan/copilot-api released v2.7.23.</summary>
-  </entry>
-  <entry>
     <title>archestra-ai/archestra platform-v1.3.76</title>
     <link href="https://github.com/archestra-ai/archestra/releases/tag/platform-v1.3.76" />
     <id>https://github.com/archestra-ai/archestra/releases/tag/platform-v1.3.76</id>
     <updated>2026-10-17T22:08:49Z</updated>
     <summary>archestra-ai/archestra released platform: v1.3.76.</summary>
-  </entry>
-  <entry>
-    <title>tashfeenahmed/freellmapi v0.16.0</title>
-    <link href="https://github.com/tashfeenahmed/freellmapi/releases/tag/v0.16.0" />
-    <id>https://github.com/tashfeenahmed/freellmapi/releases/tag/v0.16.0</id>
-    <updated>2026-10-17T19:03:22Z</updated>
-    <summary>tashfeenahmed/freellmapi released v0.16.0.</summary>
   </entry>
   <entry>
     <title>QuantumNous/new-api v1.0.0-rc.45</title>
@@ -64,13 +78,6 @@
     <summary>lidge-jun/opencodex released v2.88.0.</summary>
   </entry>
   <entry>
-    <title>askalf/dario v6.13.18</title>
-    <link href="https://github.com/askalf/dario/releases/tag/v6.13.18" />
-    <id>https://github.com/askalf/dario/releases/tag/v6.13.18</id>
-    <updated>2026-10-17T00:19:21Z</updated>
-    <summary>askalf/dario released v6.13.18.</summary>
-  </entry>
-  <entry>
     <title>BlockRunAI/ClawRouter v0.12.291</title>
     <link href="https://github.com/BlockRunAI/ClawRouter/releases/tag/v0.12.291" />
     <id>https://github.com/BlockRunAI/ClawRouter/releases/tag/v0.12.291</id>
@@ -83,13 +90,6 @@
     <id>https://github.com/mozilla-ai/otari/releases/tag/v0.28.0</id>
     <updated>2026-10-16T19:09:11Z</updated>
     <summary>mozilla-ai/otari released v0.28.0.</summary>
-  </entry>
-  <entry>
-    <title>router-for-me/CLIProxyAPI v8.0.32</title>
-    <link href="https://github.com/router-for-me/CLIProxyAPI/releases/tag/v8.0.32" />
-    <id>https://github.com/router-for-me/CLIProxyAPI/releases/tag/v8.0.32</id>
-    <updated>2026-10-16T18:57:27Z</updated>
-    <summary>router-for-me/CLIProxyAPI released v8.0.32.</summary>
   </entry>
   <entry>
     <title>kgateway-dev/kgateway v2.4.7</title>
